@@ -1,0 +1,27 @@
+name,math,science,english,average,grade,min_score,max_score,score_range,pass_fail
+Alice,85,90,78,84.33333333333333,B,78,90,12,"Congratulations, you passed!"
+Bob,70,65,80,71.66666666666667,C,65,80,15,"Congratulations, you passed!"
+Charlie,50,45,60,51.666666666666664,E,45,60,15,"Congratulations, you passed!"
+Diana,95,100,98,97.66666666666667,A,95,100,5,"Congratulations, you passed!"
+Eve,40,35,30,35.0,F,30,40,10,Fail
+Frank,88,92,85,88.33333333333333,B,85,92,7,"Congratulations, you passed!"
+Grace,75,80,70,75.0,C,70,80,10,"Congratulations, you passed!"
+Hannah,60,55,65,60.0,D,55,65,10,"Congratulations, you passed!"
+Ian,45,50,40,45.0,F,40,50,10,Fail
+Jack,30,25,35,30.0,F,25,35,10,Fail
+Karen,90,85,88,87.66666666666667,B,85,90,5,"Congratulations, you passed!"
+Liam,78,82,80,80.0,B,78,82,4,"Congratulations, you passed!"
+Mia,65,70,68,67.66666666666667,D,65,70,5,"Congratulations, you passed!"
+Noah,55,60,58,57.666666666666664,E,55,60,5,"Congratulations, you passed!"
+Olivia,95,90,92,92.33333333333333,A,90,95,5,"Congratulations, you passed!"
+Paul,40,45,50,45.0,F,40,50,10,Fail
+Quinn,85,88,84,85.66666666666667,B,84,88,4,"Congratulations, you passed!"
+Rachel,70,75,72,72.33333333333333,C,70,75,5,"Congratulations, you passed!"
+Sam,50,55,60,55.0,E,50,60,10,"Congratulations, you passed!"
+Tina,30,35,40,35.0,F,30,40,10,Fail
+Uma,95,98,100,97.66666666666667,A,95,100,5,"Congratulations, you passed!"
+Victor,88,85,90,87.66666666666667,B,85,90,5,"Congratulations, you passed!"
+Wendy,75,78,80,77.66666666666667,C,75,80,5,"Congratulations, you passed!"
+Xander,60,65,62,62.333333333333336,D,60,65,5,"Congratulations, you passed!"
+Yara,45,50,48,47.666666666666664,F,45,50,5,Fail
+Zane,30,35,32,32.333333333333336,F,30,35,5,Fail
